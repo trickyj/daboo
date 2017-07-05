@@ -6,7 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="_/components/css/bootstrap.css">
 	<link rel="stylesheet" type="tex/css" href="_/components/css/myscript.css">
 </head>
-<body id="artists">
+<body id="artists	">
 
 	<section class="container">
 		<div class="content row">
@@ -24,3 +24,6 @@
 	<script type="text/javascript" src="_/components/js/myscript.js"></script>
 </body>
 </html>
+
+Clients do o come first. Employees come first.
+If you take care of your employees, they will take care of the clients.

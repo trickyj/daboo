@@ -7,14 +7,11 @@
 	<link rel="stylesheet" type="tex/css" href="_/components/css/myscript.css">
 </head>
 <body id="home">
-
 	<section class="container">
 		<div class="content row">
-			<section class="main col col-lg-8">
-				
-				</section><!-- main -->
+				<?php include "_/components/php/header.php"; ?>
 
-				<section class="sidebar col col-lg-4">
+				<section class="sidebar col col-lg-8">
 			
 			</section><!-- sidebar -->
 		</div><!-- content -->
