@@ -476,7 +476,7 @@
 	"\/_\/components\/js\/affix.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_\/components\/js\/affix-min.js",
 		"oF": 0,
 		"sC": 1,
@@ -485,7 +485,7 @@
 	"\/_\/components\/js\/alert.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_\/components\/js\/alert-min.js",
 		"oF": 0,
 		"sC": 1,
@@ -512,7 +512,7 @@
 	"\/_\/components\/js\/button.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_\/components\/js\/button-min.js",
 		"oF": 0,
 		"sC": 1,
@@ -521,7 +521,7 @@
 	"\/_\/components\/js\/carousel.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_\/components\/js\/carousel-min.js",
 		"oF": 0,
 		"sC": 1,
@@ -530,7 +530,7 @@
 	"\/_\/components\/js\/collapse.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_\/components\/js\/collapse-min.js",
 		"oF": 0,
 		"sC": 1,
@@ -539,7 +539,7 @@
 	"\/_\/components\/js\/dropdown.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_\/components\/js\/dropdown-min.js",
 		"oF": 0,
 		"sC": 1,
@@ -548,7 +548,7 @@
 	"\/_\/components\/js\/jquery.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_\/components\/js\/jquery-min.js",
 		"oF": 0,
 		"sC": 1,
@@ -557,7 +557,7 @@
 	"\/_\/components\/js\/modal.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_\/components\/js\/modal-min.js",
 		"oF": 0,
 		"sC": 1,
@@ -575,7 +575,7 @@
 	"\/_\/components\/js\/popover.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_\/components\/js\/popover-min.js",
 		"oF": 0,
 		"sC": 1,
@@ -584,7 +584,7 @@
 	"\/_\/components\/js\/scrollspy.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_\/components\/js\/scrollspy-min.js",
 		"oF": 0,
 		"sC": 1,
@@ -593,7 +593,7 @@
 	"\/_\/components\/js\/tab.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_\/components\/js\/tab-min.js",
 		"oF": 0,
 		"sC": 1,
@@ -602,7 +602,7 @@
 	"\/_\/components\/js\/tooltip.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_\/components\/js\/tooltip-min.js",
 		"oF": 0,
 		"sC": 1,
@@ -611,7 +611,7 @@
 	"\/_\/components\/js\/transition.js": {
 		"ft": 64,
 		"mi": 1,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "\/_\/components\/js\/transition-min.js",
 		"oF": 0,
 		"sC": 1,
@@ -1838,6 +1838,12 @@
 		"sM": 0,
 		"sU": 0
 		},
+	"\/_\/components\/php\/header.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/_\/components\/php\/header.php",
+		"oF": 0
+		},
 	"\/_\/fonts\/glyphicons-halflings-regular.eot": {
 		"ft": 8192,
 		"oA": 2,
@@ -1872,6 +1878,18 @@
 		"oAP": "\/_\/fonts\/glyphicons-halflings-regular.woff2",
 		"oF": 0
 		},
+	"\/about.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/about.php",
+		"oF": 0
+		},
+	"\/artists.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/artists.php",
+		"oF": 0
+		},
 	"\/images\/carousel\/slideshow-1.jpg": {
 		"ft": 16384,
 		"iS": 82261,
@@ -1896,16 +1914,70 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/index.html": {
+	"\/images\/logos\/f1.jpg": {
+		"ft": 16384,
+		"iS": 20075,
+		"oA": 0,
+		"oAP": "\/images\/logos\/f1.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/logos\/f2.png": {
+		"ft": 32768,
+		"iS": 6099,
+		"oA": 0,
+		"oAP": "\/images\/logos\/f2.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/logos\/f3.png": {
+		"ft": 32768,
+		"iS": 5519,
+		"oA": 0,
+		"oAP": "\/images\/logos\/f3.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/logos\/f4.png": {
+		"ft": 32768,
+		"iS": 16530,
+		"oA": 0,
+		"oAP": "\/images\/logos\/f4.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/logos\/f5.jpg": {
+		"ft": 16384,
+		"iS": 8146,
+		"oA": 0,
+		"oAP": "\/images\/logos\/f5.jpg",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/images\/logos\/f6.png": {
+		"ft": 32768,
+		"iS": 16273,
+		"oA": 0,
+		"oAP": "\/images\/logos\/f6.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/index.php": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/index.html",
+		"oAP": "\/index.php",
 		"oF": 0
 		},
 	"\/LICENSE": {
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/LICENSE",
+		"oF": 0
+		},
+	"\/privacypolicy.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/privacypolicy.php",
 		"oF": 0
 		},
 	"\/README.md": {
@@ -1925,6 +1997,30 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"\/register.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/register.php",
+		"oF": 0
+		},
+	"\/schedule.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/schedule.php",
+		"oF": 0
+		},
+	"\/test.stl": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/test.stl",
+		"oF": 0
+		},
+	"\/venuetravel.php": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/venuetravel.php",
+		"oF": 0
 		}
 	},
 "hooks": [
