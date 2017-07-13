@@ -10,7 +10,7 @@
 	<section class="container">
 		<div class="content row">
 				<?php include "_/components/php/header.php"; ?>
-
+				<?php include "_/components/php/abc.php"; ?>
 				<section class="sidebar col col-lg-8">
 			
 			</section><!-- sidebar -->
