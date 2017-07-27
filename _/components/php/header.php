@@ -3,7 +3,7 @@
 		<a href="index.php"><img src="images/logos/f3.png" alt="Logo for fusion"> </a>
 	</section> <!-- branding -->
 	
-	<section class="navbar">		
+	<section class="navbar navbar-inverse bg-inverse">		
 			<ul class="nav navbar-nav">
 				<li> <a href="index.php">Home</a></li>		
 				<li> <a href="venuetravel.php">Venue/Travel</a></li>
@@ -15,6 +15,7 @@
 			<li class="divider"></li>	
 				<li> <a href="privacypolicy.php">PrivacyPolicy </a></li>
 				<li><a tabindex="-1" href="artists.php#Barot_Bellingham">Barot Bellingham</a></li>
+				<li class="divider"></li>
 				  <li><a tabindex="-1" href="artists.php#Gerard_Donahue">Gerard Donahue</a></li>
 				  <li><a tabindex="-1" href="artists.php#Jonathan_Ferrar">Jonathan Ferrar</a></li>
 				  <li><a tabindex="-1" href="artists.php#Lorenzo_Garcia">Lorenzo Garcia</a></li>
@@ -33,6 +34,7 @@
 	</section><!-- navbar-->
 	<!-- Modal -->
 	<!-- Modal -->
+
 	<section id="modal" class="modal fade">
 		<div class="modal-body">
 			<img id="modalimage" src="" alt="Modal Photo">
