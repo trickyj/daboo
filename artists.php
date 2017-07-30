@@ -10,14 +10,16 @@
 
 	<section class="container">
 		<div class="content row">
-			<section class="main col col-lg-8">
 			<?php include "_/components/php/header.php"; ?>	
+
+			<section class="main col col-lg-8">
 				</section><!-- main -->
 
 				<section class="sidebar col col-lg-4">
 			
 			</section><!-- sidebar -->
 		</div><!-- content -->
+		<?php include "_/components/php/footer.php"; ?>
 	</section><!-- container -->	
 
 	<script type="text/javascript" src="_/components/js/bootstrap.js"></script>
