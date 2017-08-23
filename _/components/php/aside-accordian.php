@@ -1,26 +1,77 @@
 <aside class="schedule">
-	<h2>Schedule</h2>
-	<p>There's a lot happening at our many workshop and talks. Make sure you check out the <a href="schedule.php">full schedule</a> for more information</p>
-<div class="accordion" id="schedule">
-	
-<!-- Monday -->
-<section class="accordion-group">
-	<div class="accordion-heading">
-		<a href="#monday" class="accordion-toggle" data-toggle="collapse" data-parent="#schedule"><span class="glyphicon glyphicon-claendar"></span> Monday</a>
-	</div><!-- accordion-heading -->
-</section><!-- accordion-group -->
+<h2>Schedule</h2>
+<p><strong>Note : </strong>The <strong>data-parent</strong> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus voluptatum adipisci laborum ut accusamus, reprehenderit placeat voluptas accusantium, aliquid excepturi rerum suscipit quisquam fuga, nobis doloremque soluta dolore est sit!</p>
 
-<div id="monday" class="accordion-body collapse">
-<section class="accordion-inner">
-	<p> Some text goes here </p>
-	<p> <a href="schedule.php#monday" class="btn btn-danger" btn-small">Monday's Schedule</a></p>
-	</section><!-- accortion-inner -->
-</div>
+<div class="panel-group" id="Accordian">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+      <a data-toggle="collapse" data-parent="#accordion" href="#collapse1"><span class="glyphicon glyphicon-calendar"></span> Monday</a>
+      </h4><!-- panel-title -->
+    </div><!-- panel-heading -->
+<div id="collapse1" class="panel-collapse collapse in">
+  <div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nostrum nihil repudiandae quod eum voluptatem blanditiis voluptatibus hic dignissimos illum consequuntur expedita, voluptates illo maxime voluptas porro reiciendis praesentium repellendus.
+</div><!-- panel-body -->
+</div><!-- panel-collapse1 -->
+</div> <!-- panel-default-->
+</div><!-- Panel-group -->
 
-<secontion class="testcomment">
-	
-</secontion>
+<div class="panel-group" id="Accordian">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+      <a data-toggle="collapse" data-parent="#accordion" href="#collapse2"><span class="glyphicon glyphicon-calendar"></span> Tuesday </a>
+      </h4><!-- panel-title -->
+    </div><!-- panel-heading -->
+<div id="collapse2" class="panel-collapse collapse in">
+  <div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nostrum nihil repudiandae quod eum voluptatem blanditiis voluptatibus hic dignissimos illum consequuntur expedita, voluptates illo maxime voluptas porro reiciendis praesentium repellendus.
+</div><!-- panel-body -->
+</div><!-- panel-collapse1 -->
+</div> <!-- panel-default-->
+</div><!-- Panel-group -->
 
-</div>
+<div class="panel-group" id="Accordian">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+      <a data-toggle="collapse" data-parent="#accordion" href="#collapse3"><span class="glyphicon glyphicon-calendar"></span> Wednesday </a>
+      </h4><!-- panel-title -->
+    </div><!-- panel-heading -->
+<div id="collapse3" class="panel-collapse collapse in">
+  <div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nostrum nihil repudiandae quod eum voluptatem blanditiis voluptatibus hic dignissimos illum consequuntur expedita, voluptates illo maxime voluptas porro reiciendis praesentium repellendus.
+</div><!-- panel-body -->
+</div><!-- panel-collapse1 -->
+</div> <!-- panel-default-->
+</div><!-- Panel-group -->    
 
-</aside>
+<div class="panel-group" id="Accordian">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+      <a data-toggle="collapse" data-parent="#accordion" href="#collapse4"><span class="glyphicon glyphicon-calendar"></span> Thursday </a>
+      </h4><!-- panel-title -->
+    </div><!-- panel-heading -->
+<div id="collapse4" class="panel-collapse collapse in">
+  <div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nostrum nihil repudiandae quod eum voluptatem blanditiis voluptatibus hic dignissimos illum consequuntur expedita, voluptates illo maxime voluptas porro reiciendis praesentium repellendus.
+</div><!-- panel-body -->
+</div><!-- panel-collapse1 -->
+</div> <!-- panel-default-->
+</div><!-- Panel-group -->
+
+<div class="panel-group" id="Accordian">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+      <a data-toggle="collapse" data-parent="#accordion" href="#collapse5"><span class="glyphicon glyphicon-calendar"></span> Friday </a>
+      </h4><!-- panel-title -->
+    </div><!-- panel-heading -->
+<div id="collapse5" class="panel-collapse collapse in">
+  <div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nostrum nihil repudiandae quod eum voluptatem blanditiis voluptatibus hic dignissimos illum consequuntur expedita, voluptates illo maxime voluptas porro reiciendis praesentium repellendus.
+</div><!-- panel-body -->
+</div><!-- panel-collapse1 -->
+</div> <!-- panel-default-->
+</div><!-- Panel-group -->
+
+</body>
+</html>
+</aside><!-- aside -->
