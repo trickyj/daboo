@@ -5,6 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" type="text/css" href="_/css/bootstrap.css">
 	<link rel="stylesheet" type="tex/css" href="_/components/css/_mystyles.less">
+	<link rel="stylesheet" type="text/css" href="_/css/mystyles.css">
 </head>
 <body id="home">
 	<section class="container">

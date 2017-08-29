@@ -11,6 +11,7 @@
     </div><!-- panel-heading -->
 <div id="collapse1" class="panel-collapse collapse in">
   <div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nostrum nihil repudiandae quod eum voluptatem blanditiis voluptatibus hic dignissimos illum consequuntur expedita, voluptates illo maxime voluptas porro reiciendis praesentium repellendus.
+  <p><a href="schedule.php#Monday" class="btn btn-danger btn-small">Monday's schedule</a></p>
 </div><!-- panel-body -->
 </div><!-- panel-collapse1 -->
 </div> <!-- panel-default-->
@@ -25,6 +26,7 @@
     </div><!-- panel-heading -->
 <div id="collapse2" class="panel-collapse collapse in">
   <div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nostrum nihil repudiandae quod eum voluptatem blanditiis voluptatibus hic dignissimos illum consequuntur expedita, voluptates illo maxime voluptas porro reiciendis praesentium repellendus.
+  <p><a href="schedule.php#Tuesday" class="btn btn-danger btn-small">Tuesday's schedule</a></p>
 </div><!-- panel-body -->
 </div><!-- panel-collapse1 -->
 </div> <!-- panel-default-->
@@ -39,6 +41,7 @@
     </div><!-- panel-heading -->
 <div id="collapse3" class="panel-collapse collapse in">
   <div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nostrum nihil repudiandae quod eum voluptatem blanditiis voluptatibus hic dignissimos illum consequuntur expedita, voluptates illo maxime voluptas porro reiciendis praesentium repellendus.
+  <p><a href="schedule.php#Wednesday" class="btn btn-danger btn-small">Wednesday's schedule</a></p>
 </div><!-- panel-body -->
 </div><!-- panel-collapse1 -->
 </div> <!-- panel-default-->
@@ -53,6 +56,7 @@
     </div><!-- panel-heading -->
 <div id="collapse4" class="panel-collapse collapse in">
   <div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nostrum nihil repudiandae quod eum voluptatem blanditiis voluptatibus hic dignissimos illum consequuntur expedita, voluptates illo maxime voluptas porro reiciendis praesentium repellendus.
+  <p><a href="schedule.php#Thrusday" class="btn btn-danger btn-small">Thursday's schedule</a></p>
 </div><!-- panel-body -->
 </div><!-- panel-collapse1 -->
 </div> <!-- panel-default-->
@@ -67,6 +71,8 @@
     </div><!-- panel-heading -->
 <div id="collapse5" class="panel-collapse collapse in">
   <div class="panel-body">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos nostrum nihil repudiandae quod eum voluptatem blanditiis voluptatibus hic dignissimos illum consequuntur expedita, voluptates illo maxime voluptas porro reiciendis praesentium repellendus.
+  
+  <p><a href="schedule.php#Friday" class="btn btn-danger btn-small">Friday's schedule</a></p>
 </div><!-- panel-body -->
 </div><!-- panel-collapse1 -->
 </div> <!-- panel-default-->
