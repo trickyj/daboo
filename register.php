@@ -3,8 +3,9 @@
 <head>
 	<title>Fusion -- register</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="stylesheet" type="text/css" href="_/components/css/bootstrap.css">
-	<link rel="stylesheet" type="tex/css" href="_/components/css/myscript.css">
+	<link href='http://fonts.googleapis.com/css?family=Bree+Serif|Merriweather:400,300,300italic,400italic,700,700italic' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" href="_/css/bootstrap.css">
+	<link rel="stylesheet" type="tex/css" href="_/css/mystyles.css">
 </head>
 <body id="register">
 
@@ -12,10 +13,12 @@
 		<div class="content row">
 			<?php include "_/components/php/header.php"; ?>
 			<section class="main col col-lg-8">
+			<?php include "_/components/php/article_registrationform.php"; ?>
 				</section><!-- main -->
 
 				<section class="sidebar col col-lg-4">
-			
+					<?php include "_/components/php/aside-register.php"; ?>
+					<?php include "_/components/php/aside-accordian.php"; ?>
 			</section><!-- sidebar -->
 		</div><!-- content -->
 		<?php include "_/components/php/footer.php"; ?>

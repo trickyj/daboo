@@ -21,7 +21,8 @@
 		<section class="sidebar col col-lg-4">
 			<?php include "_/components/php/aside-register.php"; ?>
 			<?php include "_/components/php/aside-lastyear.php"; ?>
-			<?php include "_/components/php/aside-accordian.php"; ?>
+			<?php include "_/components/php/aside-accordian.php";?>
+
 			
 		</section><!-- sidebar -->	
 
