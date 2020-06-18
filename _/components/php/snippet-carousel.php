@@ -16,7 +16,7 @@
 	</ol>
 	<section class="carousel-inner">
 		
-<div class="active item"><img src="images/carousel/acrilycs_workshop.jpg" alt="slideshow image 1"></div>
+<div class="active item"><img src="images/carousel/woodworking_workshop.jpg" alt="slideshow image 1"></div>
 <div class="item"><img src="images/carousel/interior_decor_workshop.jpg" alt="slideshow image 2"></div>
 <div class="item"><img src="images/carousel/jewelry_workshop.jpg" alt="slideshow image 3"></div>
 <div class="item"><img src="images/carousel/letterpress_studio.jpg" alt="slideshow image 4"> </div>

@@ -1,28 +1,30 @@
 <article class="registrationform">
 	<h2>Registration form</h2>
-	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur ratione unde consequatur consequuntur corporis sed voluptatum dolore eligendi incidunt dignissimos reiciendis necessitatibus odit quis quos, optio, itaque eaque suscipit. Minus?</p>
+	<p>We are ready to take registration only for those customers who are located in Pune India. Please fill in the below given registration form before 27th Jan 2018</p>
 
-	<form action="" class="registration form-horizontal" action="#">
+	<form class="registration form-horizontal" action="#">
+
 	<fieldset id="personalinfo">
 		<legend>Personal Info</legend>
+
+			<section class="row">
+				<label class="col col-lg-4 control-label" for="myname">Name</label>
+				<div class="controls">
+					<input class="col col-lg-8" type="text" name="myname" id="myname" autofocus placeholder="Last, First" required>	
+				</div><!-- controls -->
+		</section><!-- row -->
+
 		<section class="row">
-			<label class="col col-lg-4" for="myname">Name</label>
+			<label class="col col-lg-4 control-label" for="companyname">Company Name</label>
 			<div class="controls">
-			<input type="text" name="myname" id="myname" autofocus placeholder="Last, First" class="col col-lg-8" required>	
+			<input class="col col-lg-8" type="text" name="companyname" id="companyname" >
 			</div><!-- controls -->
 		</section><!-- row -->
 
 		<section class="row">
-			<label class="col col-lg-4" for="myname">Company</label>
+			<label class="col col-lg-4 control-label" for="myname">Email</label>
 			<div class="controls">
-			<input type="text" name="companyname" id="companyname" class="col col-lg-8">
-			</div><!-- controls -->
-		</section><!-- row -->
-
-		<section class="row">
-			<label class="col col-lg-4" for="myname">Email</label>
-			<div class="controls">
-			<input type="text" name="email" id="myemail" class="col col-lg-8">
+			<input type="text" name="email" id="myemail" class="col col-lg-8" required autocomplete="off" />
 			</div><!-- controls -->
 		</section><!-- row -->
 
@@ -30,9 +32,10 @@
 
 	<fieldset class="otherinfo">
 		<legend>Other Info</legend>
+			
 			<section class="row">
-				<label class="col col-lg-4">Request Type</label>
-					<div class="control col col-lg-4">
+				<label class="col col-lg-4 control-label">Request Type</label>
+					<div class="control col col-lg-8">
 					
 						<label class="radio">
 							<input type="radio" name="requesttype" value="question" /> Question 
@@ -71,3 +74,19 @@
 	  <button class="btn" type="submit">Submit</button>
 	</form>
 </article>
+
+<?php
+$link = mysqli_connect("127.0.0.1", "root", "Trimtron@123", "testdb");
+
+if (!$link) {
+    echo "Error: Unable to connect to MySQL." . PHP_EOL;
+    echo "Debugging errno: " . mysqli_connect_errno() . PHP_EOL;
+    echo "Debugging error: " . mysqli_connect_error() . PHP_EOL;
+    exit;
+}
+
+echo "Success: A proper connection to MySQL was made! The my_db database is great." . PHP_EOL;
+echo "Host information: " . mysqli_get_host_info($link) . PHP_EOL;
+
+mysqli_close($link);
+?>

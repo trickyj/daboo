@@ -1,6 +1,6 @@
 <header class="clearfix">
 	<section id="branding">
-		<a href="index.php"><img src="images/logos/f3.png" alt="Logo for fusion"> </a>
+		<a href="index.php"><img src="images/logos/logo.png" alt="Logo for fusion"> </a>
 	</section> <!-- branding -->
 	
 	<section class="navbar navbar-inverse bg-inverse">		
@@ -30,6 +30,7 @@
 				</ul><!-- Dropdown menu -->
 				</li>
 				<li> <a href="register.php">Register</a></li>
+				<li> <a href="cehstudy.php">CEH_Study</a></li>
 </ul><!-- navbar -->
 	</section><!-- navbar-->
 	<!-- Modal -->

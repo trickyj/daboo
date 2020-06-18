@@ -3,9 +3,9 @@
 <head>
 	<title>Fusion -- register</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link href='http://fonts.googleapis.com/css?family=Bree+Serif|Merriweather:400,300,300italic,400italic,700,700italic' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="_/css/bootstrap.css">
-	<link rel="stylesheet" type="tex/css" href="_/css/mystyles.css">
+	<link rel="stylesheet" type="tex/css" href="_/components/css/_mystyles.less">
+	<link rel="stylesheet" type="text/css" href="_/css/mystyles.css">
 </head>
 <body id="register">
 
@@ -24,7 +24,9 @@
 		<?php include "_/components/php/footer.php"; ?>
 	</section><!-- container -->	
 
+	<script type="text/javascript" src="_/components/js/jquery.js"></script>
 	<script type="text/javascript" src="_/components/js/bootstrap.js"></script>
-	<script type="text/javascript" src="_/components/js/myscript.js"></script>
+	<script type="text/javascript" src="_/components/js/modal.js"></script>
+	<script type="text/javascript" src="_/js/myscript.js"></script>
 </body>
 </html>
