@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
 
+title: [The title of your site]
+description: [A short description of your site's purpose]
+
 You can use the [editor on GitHub](https://github.com/trickyj/daboo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
